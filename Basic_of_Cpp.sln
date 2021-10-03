@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.4_sizeof_and_comma_operat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.5_relational_operators", "3.5_relational_operators\3.5_relational_operators.vcxproj", "{997E29EE-11B6-4BBB-BFBB-2DFC6BC7FCBD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.6_logical_operators", "3.6_logical_operators\3.6_logical_operators.vcxproj", "{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{997E29EE-11B6-4BBB-BFBB-2DFC6BC7FCBD}.Release|x64.Build.0 = Release|x64
 		{997E29EE-11B6-4BBB-BFBB-2DFC6BC7FCBD}.Release|x86.ActiveCfg = Release|Win32
 		{997E29EE-11B6-4BBB-BFBB-2DFC6BC7FCBD}.Release|x86.Build.0 = Release|Win32
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Debug|x64.ActiveCfg = Debug|x64
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Debug|x64.Build.0 = Debug|x64
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Debug|x86.Build.0 = Debug|Win32
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Release|x64.ActiveCfg = Release|x64
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Release|x64.Build.0 = Release|x64
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Release|x86.ActiveCfg = Release|Win32
+		{37185AD9-9DD6-4462-BE3D-34AB68FA17A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
