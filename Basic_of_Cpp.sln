@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.3 Using_and_Ambiguity", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.4_auto_and_type_inference", "4.4_auto_and_type_inference\4.4_auto_and_type_inference.vcxproj", "{35D0F686-CE1D-44C5-A379-4CF956AC1384}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.5_coersion_and_casting", "4.5_coersion_and_casting\4.5_coersion_and_casting.vcxproj", "{F868E5DE-F6F3-4684-90E2-376210A16CC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{35D0F686-CE1D-44C5-A379-4CF956AC1384}.Release|x64.Build.0 = Release|x64
 		{35D0F686-CE1D-44C5-A379-4CF956AC1384}.Release|x86.ActiveCfg = Release|Win32
 		{35D0F686-CE1D-44C5-A379-4CF956AC1384}.Release|x86.Build.0 = Release|Win32
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Debug|x64.ActiveCfg = Debug|x64
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Debug|x64.Build.0 = Debug|x64
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Debug|x86.Build.0 = Debug|Win32
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Release|x64.ActiveCfg = Release|x64
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Release|x64.Build.0 = Release|x64
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Release|x86.ActiveCfg = Release|Win32
+		{F868E5DE-F6F3-4684-90E2-376210A16CC5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
