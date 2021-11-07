@@ -105,6 +105,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.10_use_better_cin", "5.10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.1_basic_of_array_1", "6.1_basic_of_array_1\6.1_basic_of_array_1.vcxproj", "{EE203C4D-6F0F-44D2-8CBC-B4BFF0CE894D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.2_basic_of_array_2", "6.2_basic_of_array_2\6.2_basic_of_array_2.vcxproj", "{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -521,6 +523,14 @@ Global
 		{EE203C4D-6F0F-44D2-8CBC-B4BFF0CE894D}.Release|x64.Build.0 = Release|x64
 		{EE203C4D-6F0F-44D2-8CBC-B4BFF0CE894D}.Release|x86.ActiveCfg = Release|Win32
 		{EE203C4D-6F0F-44D2-8CBC-B4BFF0CE894D}.Release|x86.Build.0 = Release|Win32
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Debug|x64.ActiveCfg = Debug|x64
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Debug|x64.Build.0 = Debug|x64
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Debug|x86.Build.0 = Debug|Win32
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Release|x64.ActiveCfg = Release|x64
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Release|x64.Build.0 = Release|x64
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Release|x86.ActiveCfg = Release|Win32
+		{6CE7B755-9CFA-4CE2-806C-EBBB3B294C47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
