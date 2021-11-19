@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.8_pointer_and_array", "6.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9_calculation_of_pointer_and_array_indexing", "6.9_calculation_of_pointer_and_array_indexing\6.9_calculation_of_pointer_and_array_indexing.vcxproj", "{65E47473-4BB5-4967-9A2F-0F5615E58CAB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.10_string_symbolic_constant_of_c_style", "6.10_string_symbolic_constant_of_c_style\6.10_string_symbolic_constant_of_c_style.vcxproj", "{2553C0A1-CA2C-482D-9577-357434A6FAF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{65E47473-4BB5-4967-9A2F-0F5615E58CAB}.Release|x64.Build.0 = Release|x64
 		{65E47473-4BB5-4967-9A2F-0F5615E58CAB}.Release|x86.ActiveCfg = Release|Win32
 		{65E47473-4BB5-4967-9A2F-0F5615E58CAB}.Release|x86.Build.0 = Release|Win32
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Debug|x64.ActiveCfg = Debug|x64
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Debug|x64.Build.0 = Debug|x64
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Debug|x86.Build.0 = Debug|Win32
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Release|x64.ActiveCfg = Release|x64
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Release|x64.Build.0 = Release|x64
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Release|x86.ActiveCfg = Release|Win32
+		{2553C0A1-CA2C-482D-9577-357434A6FAF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
