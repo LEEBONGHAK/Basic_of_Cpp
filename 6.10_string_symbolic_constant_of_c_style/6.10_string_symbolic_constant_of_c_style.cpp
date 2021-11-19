@@ -11,7 +11,8 @@ const char* getName()
 int main()
 {
 	//char name[] = "Jack Jack";
-	const char *name = "Jack Jack";
+	//char *name = "Jack Jack";	// error
+	const char *name = "Jack Jack";	// symbolic constant로 해결 가능
 	const char *name2 = "Jack Jack";
 	const char *name3 = "Jack Jack2";
 
