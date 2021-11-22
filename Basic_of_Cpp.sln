@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.12_dynamically_allocating
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.13_pointer_and_const", "6.13_pointer_and_const\6.13_pointer_and_const.vcxproj", "{A58CAECB-6715-4343-AB96-24E12DE0165D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.14_reference_variable", "6.14_reference_variable\6.14_reference_variable.vcxproj", "{36D678E1-4D2F-4E16-B047-84B735177695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{A58CAECB-6715-4343-AB96-24E12DE0165D}.Release|x64.Build.0 = Release|x64
 		{A58CAECB-6715-4343-AB96-24E12DE0165D}.Release|x86.ActiveCfg = Release|Win32
 		{A58CAECB-6715-4343-AB96-24E12DE0165D}.Release|x86.Build.0 = Release|Win32
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Debug|x64.ActiveCfg = Debug|x64
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Debug|x64.Build.0 = Debug|x64
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Debug|x86.ActiveCfg = Debug|Win32
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Debug|x86.Build.0 = Debug|Win32
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Release|x64.ActiveCfg = Release|x64
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Release|x64.Build.0 = Release|x64
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Release|x86.ActiveCfg = Release|Win32
+		{36D678E1-4D2F-4E16-B047-84B735177695}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
