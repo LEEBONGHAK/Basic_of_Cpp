@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.10_string_symbolic_consta
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.11_dynamic_memory_allocation_(new_and_delete)", "6.11_dynamic_memory_allocation_(new_and_delete)\6.11_dynamic_memory_allocation_(new_and_delete).vcxproj", "{FA3A0B99-130B-43BE-BBDF-A8D59CE974C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.12_dynamically_allocating_arrays", "6.12_dynamically_allocating_arrays\6.12_dynamically_allocating_arrays.vcxproj", "{39806D8D-A036-4987-B287-983CC7187E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{FA3A0B99-130B-43BE-BBDF-A8D59CE974C4}.Release|x64.Build.0 = Release|x64
 		{FA3A0B99-130B-43BE-BBDF-A8D59CE974C4}.Release|x86.ActiveCfg = Release|Win32
 		{FA3A0B99-130B-43BE-BBDF-A8D59CE974C4}.Release|x86.Build.0 = Release|Win32
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Debug|x64.ActiveCfg = Debug|x64
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Debug|x64.Build.0 = Debug|x64
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Debug|x86.Build.0 = Debug|Win32
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Release|x64.ActiveCfg = Release|x64
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Release|x64.Build.0 = Release|x64
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Release|x86.ActiveCfg = Release|Win32
+		{39806D8D-A036-4987-B287-983CC7187E1E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
