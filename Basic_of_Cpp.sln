@@ -137,6 +137,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.15 참조와 const", "6.1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.16_member_selection_operators_of_pointer_and_reference", "6.16_member_selection_operators_of_pointer_and_reference\6.16_member_selection_operators_of_pointer_and_reference.vcxproj", "{C1600210-6BBD-40E1-ACD6-F1CB3A4C6946}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.17_c++11_For-each_loop", "6.17_c++11_For-each_loop\6.17_c++11_For-each_loop.vcxproj", "{9E44F0AB-E5C0-4939-981C-826296CA1532}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -681,6 +683,14 @@ Global
 		{C1600210-6BBD-40E1-ACD6-F1CB3A4C6946}.Release|x64.Build.0 = Release|x64
 		{C1600210-6BBD-40E1-ACD6-F1CB3A4C6946}.Release|x86.ActiveCfg = Release|Win32
 		{C1600210-6BBD-40E1-ACD6-F1CB3A4C6946}.Release|x86.Build.0 = Release|Win32
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Debug|x64.ActiveCfg = Debug|x64
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Debug|x64.Build.0 = Debug|x64
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Debug|x86.Build.0 = Debug|Win32
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Release|x64.ActiveCfg = Release|x64
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Release|x64.Build.0 = Release|x64
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Release|x86.ActiveCfg = Release|Win32
+		{9E44F0AB-E5C0-4939-981C-826296CA1532}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
