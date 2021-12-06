@@ -10,6 +10,8 @@ void doSomething(int y)
 
 int main()
 {
+	/* 값에 의한 인수 전달 - Passing Arguments by Value (Call by Value) */
+
 	doSomething(5);
 	cout << endl;
 
