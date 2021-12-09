@@ -96,7 +96,7 @@ int main()
 	cout << endl;
 
 
-	auto [a, d] = getTuple();
+	auto [a, d] = getTuple();	// C++17 이상
 	cout << a << endl;
 	cout << d << endl;
 
