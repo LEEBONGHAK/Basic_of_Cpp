@@ -30,5 +30,7 @@ int main(int argc, char *argv[])
 	}
 	cout << endl;
 
+	// 참고 : Boost library에 Boost.Program_options를 사용하면 command line arguments를 처리할 때 편함
+
 	return 0;
 }
