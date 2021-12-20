@@ -169,6 +169,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.11_to_use_std_vector_like
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.12_recursive_function_call", "7.12_recursive_function_call\7.12_recursive_function_call.vcxproj", "{6F40FA7E-2CB7-40A1-A82E-BDBB23E762F8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.13_defensive_programming", "7.13_defensive_programming\7.13_defensive_programming.vcxproj", "{6F288E70-048D-4442-9740-2D46025A5BE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -841,6 +843,14 @@ Global
 		{6F40FA7E-2CB7-40A1-A82E-BDBB23E762F8}.Release|x64.Build.0 = Release|x64
 		{6F40FA7E-2CB7-40A1-A82E-BDBB23E762F8}.Release|x86.ActiveCfg = Release|Win32
 		{6F40FA7E-2CB7-40A1-A82E-BDBB23E762F8}.Release|x86.Build.0 = Release|Win32
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Debug|x64.ActiveCfg = Debug|x64
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Debug|x64.Build.0 = Debug|x64
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Debug|x86.Build.0 = Debug|Win32
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Release|x64.ActiveCfg = Release|x64
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Release|x64.Build.0 = Release|x64
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Release|x86.ActiveCfg = Release|Win32
+		{6F288E70-048D-4442-9740-2D46025A5BE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
