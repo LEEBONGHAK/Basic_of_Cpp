@@ -8,6 +8,12 @@ using namespace std;
 // 변수는 private으로 하는 것이 권장된 (유지 보수 및 보안 관련)
 class Date
 {
+/* 캡슐화 (Encapsulation) */
+private:
+	int pr_month;
+	int pr_day;
+	int pr_year;
+
 public:		// access specifier (접근 지정자) - 밖에서 접근 가능하게 할지 안할지 지정 (public, private(default), protected)
 	int m_month;
 	int m_day;
@@ -57,17 +63,10 @@ public:		// access specifier (접근 지정자) - 밖에서 접근 가능하게 
 		pr_day = original.pr_day;
 		pr_year = original.pr_year;
 	}
-
-private:
-	int pr_month;
-	int pr_day;
-	int pr_year;
 };
 
 int main()
 {
-	/* 캡슐화 (Encapsulation) */
-
 	Date today;	// { 8, 4, 2025 }
 	// public member 자유롭게 접근 가능
 	today.m_month = 8;
