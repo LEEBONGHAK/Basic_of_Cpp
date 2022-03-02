@@ -215,6 +215,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.3_unary_operator_overload
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.4_compare_operator_overloading", "9.4_compare_operator_overloading\9.4_compare_operator_overloading.vcxproj", "{7E73C7F9-7241-4751-A2AC-0D45B95FAD60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.5_increment_operator_overloading", "9.5_increment_operator_overloading\9.5_increment_operator_overloading.vcxproj", "{EDCF09F3-0FDE-4739-925B-B036E587DCDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1071,6 +1073,14 @@ Global
 		{7E73C7F9-7241-4751-A2AC-0D45B95FAD60}.Release|x64.Build.0 = Release|x64
 		{7E73C7F9-7241-4751-A2AC-0D45B95FAD60}.Release|x86.ActiveCfg = Release|Win32
 		{7E73C7F9-7241-4751-A2AC-0D45B95FAD60}.Release|x86.Build.0 = Release|Win32
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Debug|x64.ActiveCfg = Debug|x64
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Debug|x64.Build.0 = Debug|x64
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Debug|x86.Build.0 = Debug|Win32
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Release|x64.ActiveCfg = Release|x64
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Release|x64.Build.0 = Release|x64
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Release|x86.ActiveCfg = Release|Win32
+		{EDCF09F3-0FDE-4739-925B-B036E587DCDB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
